@@ -1,0 +1,23 @@
+{
+   "cliente" : {
+      "id": 13,
+      "nome" : "Zé",
+      "active" : true
+   },
+   "pagamentos" : [
+      {
+         "id" : 123,
+         "valor" : 430,
+         "descrição" : "Compra de produtos",
+         "approved" : false
+      },
+      {
+         "id" : 134,
+         "valor" : 430,
+         "descrição" : "Compra de produtos",
+         "approved" : true
+
+      }
+   ]
+}
+
